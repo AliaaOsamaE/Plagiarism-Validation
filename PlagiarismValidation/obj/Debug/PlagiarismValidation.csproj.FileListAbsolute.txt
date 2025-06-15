@@ -1,0 +1,57 @@
+D:\Uni Related\Algorithms\Project\MATERIALS\[3] Plagiarism Validation\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\bin\Debug\PlagiarismValidation.exe.config
+D:\Uni Related\Algorithms\Project\MATERIALS\[3] Plagiarism Validation\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\bin\Debug\PlagiarismValidation.exe
+D:\Uni Related\Algorithms\Project\MATERIALS\[3] Plagiarism Validation\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\bin\Debug\PlagiarismValidation.pdb
+D:\Uni Related\Algorithms\Project\MATERIALS\[3] Plagiarism Validation\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\bin\Debug\ExcelDataReader.DataSet.dll
+D:\Uni Related\Algorithms\Project\MATERIALS\[3] Plagiarism Validation\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\bin\Debug\ExcelDataReader.dll
+D:\Uni Related\Algorithms\Project\MATERIALS\[3] Plagiarism Validation\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\bin\Debug\ExcelDataReader.pdb
+D:\Uni Related\Algorithms\Project\MATERIALS\[3] Plagiarism Validation\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\bin\Debug\ExcelDataReader.xml
+D:\Uni Related\Algorithms\Project\MATERIALS\[3] Plagiarism Validation\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\Uni Related\Algorithms\Project\MATERIALS\[3] Plagiarism Validation\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\bin\Debug\ExcelDataReader.DataSet.xml
+D:\Uni Related\Algorithms\Project\MATERIALS\[3] Plagiarism Validation\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\obj\Debug\PlagiarismValidation.csproj.AssemblyReference.cache
+D:\Uni Related\Algorithms\Project\MATERIALS\[3] Plagiarism Validation\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\obj\Debug\PlagiarismValidation.csproj.CoreCompileInputs.cache
+D:\Uni Related\Algorithms\Project\MATERIALS\[3] Plagiarism Validation\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\obj\Debug\PlagiarismValidation.csproj.CopyComplete
+D:\Uni Related\Algorithms\Project\MATERIALS\[3] Plagiarism Validation\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\obj\Debug\PlagiarismValidation.exe
+D:\Uni Related\Algorithms\Project\MATERIALS\[3] Plagiarism Validation\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\obj\Debug\PlagiarismValidation.pdb
+C:\Users\LENOVO\Desktop\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\bin\Debug\PlagiarismValidation.exe.config
+C:\Users\LENOVO\Desktop\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\bin\Debug\PlagiarismValidation.exe
+C:\Users\LENOVO\Desktop\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\bin\Debug\PlagiarismValidation.pdb
+C:\Users\LENOVO\Desktop\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\LENOVO\Desktop\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\bin\Debug\ExcelDataReader.dll
+C:\Users\LENOVO\Desktop\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\bin\Debug\ExcelDataReader.pdb
+C:\Users\LENOVO\Desktop\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\bin\Debug\ExcelDataReader.xml
+C:\Users\LENOVO\Desktop\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\LENOVO\Desktop\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\LENOVO\Desktop\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\obj\Debug\PlagiarismValidation.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\obj\Debug\PlagiarismValidation.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\obj\Debug\PlagiarismValidation.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\obj\Debug\PlagiarismValidation.exe
+C:\Users\LENOVO\Desktop\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\obj\Debug\PlagiarismValidation.pdb
+F:\Year 3 2nd term\Analysis and Design of Algorithm\Project\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\bin\Debug\PlagiarismValidation.exe.config
+F:\Year 3 2nd term\Analysis and Design of Algorithm\Project\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\bin\Debug\PlagiarismValidation.exe
+F:\Year 3 2nd term\Analysis and Design of Algorithm\Project\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\bin\Debug\PlagiarismValidation.pdb
+F:\Year 3 2nd term\Analysis and Design of Algorithm\Project\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\bin\Debug\ExcelDataReader.DataSet.dll
+F:\Year 3 2nd term\Analysis and Design of Algorithm\Project\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\bin\Debug\ExcelDataReader.dll
+F:\Year 3 2nd term\Analysis and Design of Algorithm\Project\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\bin\Debug\ExcelDataReader.pdb
+F:\Year 3 2nd term\Analysis and Design of Algorithm\Project\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\bin\Debug\ExcelDataReader.xml
+F:\Year 3 2nd term\Analysis and Design of Algorithm\Project\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\bin\Debug\ExcelDataReader.DataSet.pdb
+F:\Year 3 2nd term\Analysis and Design of Algorithm\Project\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\bin\Debug\ExcelDataReader.DataSet.xml
+F:\Year 3 2nd term\Analysis and Design of Algorithm\Project\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\obj\Debug\PlagiarismValidation.csproj.AssemblyReference.cache
+F:\Year 3 2nd term\Analysis and Design of Algorithm\Project\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\obj\Debug\PlagiarismValidation.csproj.CoreCompileInputs.cache
+F:\Year 3 2nd term\Analysis and Design of Algorithm\Project\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\obj\Debug\Plagiari.5B3C7EF5.Up2Date
+F:\Year 3 2nd term\Analysis and Design of Algorithm\Project\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\obj\Debug\PlagiarismValidation.exe
+F:\Year 3 2nd term\Analysis and Design of Algorithm\Project\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\obj\Debug\PlagiarismValidation.pdb
+F:\Year 3 2nd term\Analysis and Design of Algorithm\Project\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\bin\Debug\EPPlus.dll
+F:\Year 3 2nd term\Analysis and Design of Algorithm\Project\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\bin\Debug\EPPlus.Interfaces.dll
+F:\Year 3 2nd term\Analysis and Design of Algorithm\Project\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\bin\Debug\EPPlus.System.Drawing.dll
+F:\Year 3 2nd term\Analysis and Design of Algorithm\Project\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+F:\Year 3 2nd term\Analysis and Design of Algorithm\Project\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\bin\Debug\System.Buffers.dll
+F:\Year 3 2nd term\Analysis and Design of Algorithm\Project\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\bin\Debug\System.ComponentModel.Annotations.dll
+F:\Year 3 2nd term\Analysis and Design of Algorithm\Project\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\bin\Debug\System.Memory.dll
+F:\Year 3 2nd term\Analysis and Design of Algorithm\Project\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\bin\Debug\System.Numerics.Vectors.dll
+F:\Year 3 2nd term\Analysis and Design of Algorithm\Project\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Year 3 2nd term\Analysis and Design of Algorithm\Project\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\bin\Debug\EPPlus.xml
+F:\Year 3 2nd term\Analysis and Design of Algorithm\Project\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+F:\Year 3 2nd term\Analysis and Design of Algorithm\Project\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\bin\Debug\System.Buffers.xml
+F:\Year 3 2nd term\Analysis and Design of Algorithm\Project\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\bin\Debug\System.Memory.xml
+F:\Year 3 2nd term\Analysis and Design of Algorithm\Project\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\bin\Debug\System.Numerics.Vectors.xml
+F:\Year 3 2nd term\Analysis and Design of Algorithm\Project\Algorithm-Project\PlagiarismValidation\PlagiarismValidation\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
