@@ -1,22 +1,20 @@
-#Plagiarism Validation Tool
-This project is a plagiarism validation tool developed in C#, designed to analyze document similarities using graph algorithms.
+# Plagiarism Validation Tool
 
-##Features
-✅ Graph-based analysis
+This project is a **plagiarism validation tool** developed in **C#**, designed to analyze document similarities using **graph algorithms**.
 
-Utilizes Breadth-First Search (BFS) and Kruskal's algorithm for efficient graph construction and minimum spanning tree (MST) generation.
+## Features
 
-Identifies clusters of similar documents and key connections.
+✅ **Graph-Based Analysis**
 
-✅ Data handling
+* Utilizes **Breadth-First Search (BFS)** and **Kruskal's algorithm** for efficient graph construction and minimum spanning tree (MST) generation.
+* Identifies clusters of similar documents and key connections.
 
-Reads document pairs, similarity percentages, and line match information from Excel files.
+✅ **Data Handling**
 
-Processes data to build a graph representing document relationships.
+* Reads document pairs, similarity percentages, and line match information from **Excel files**.
+* Processes data to build a graph representing document relationships.
 
-✅ Output generation
+✅ **Output Generation**
 
-Produces an MST file representing the minimum spanning connections between documents.
-
-Generates a statistics file summarizing document components and similarity metrics.
-
+* Produces an **MST file** representing the minimum spanning connections between documents.
+* Generates a **statistics file** summarizing document components and similarity metrics.
